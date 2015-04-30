@@ -1,0 +1,30 @@
+{
+  "name": "emailhunter",
+  "version": "1.0.1",
+  "description": "API wrapper for emailhunter.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khodl/emailhunter.git"
+  },
+  "keywords": [
+    "emailhunter",
+    "email",
+    "hunter",
+    "hunt",
+    "api"
+  ],
+  "author": "Khodl.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Khodl/emailhunter/issues"
+  },
+  "homepage": "https://github.com/Khodl/emailhunter",
+  "dependencies": {
+    "request": "^2.55.0"
+  },
+  "devDependencies": {}
+}
